@@ -1,4 +1,4 @@
-##### Welcome to Student-Grade-Predictor repository
+# Welcome to Student-Grade-Predictor repository
 ### Problem Statement 
 Schools need to evaluate the performance of students as part of the early admission process. 
 
@@ -49,10 +49,10 @@ Predict the final grades of students
 ### Video Presentation Slide Link
 [Presentation Slides](https://docs.google.com/presentation/d/1iafetCM_bZoypa1dB-oSQPS9U3_97gEjsPdnxpw_DiQ/edit?usp=sharing)
 
-###Contributors
+### Contributors
 - Yeoh Zhe Wei - Neural Network, Anova Test, Categorical Analysis
 -  Yeo Boon Ling, Faith - Data Cleaning,  Neural Network
 -  Tin Jing Lun Javier - Numerical Analysis, Chi Square test
 
-###Conclusion
+### Conclusion
 
