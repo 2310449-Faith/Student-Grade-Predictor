@@ -51,8 +51,8 @@ Predict the final grades of students
 
 ### Contributors
 - Yeoh Zhe Wei - Neural Network, Anova Test, Categorical Analysis
--  Yeo Boon Ling, Faith - Data Cleaning,  Neural Network
--  Tin Jing Lun Javier - Numerical Analysis, Chi Square test
+- Yeo Boon Ling, Faith - Data Cleaning,  Neural Network
+- Tin Jing Lun Javier - Numerical Analysis, Chi Square test
 
 ### Conclusion
-
+We managed to produce 2 decent models for the prediction of final grade for Portuguese and math respectively, where both models are doing better than the minimum performance we expect from a model. The minimum performance is calculated from the viewpoint where a model always predicts the mean value of final grade. With this, schools can use these models for the respective subjects to aid in filtering out prospective students in the early admission exercise and reduce their mistake of choosing the wrong students. The dataset only contains information for these two subjects however, different models can be created for the same purpose for different subjects.
